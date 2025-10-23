@@ -77,7 +77,7 @@ A healthy dose of skepticism is the best approach when you see bold **Roobet cra
 
 
 ## Contributing
-We always welcome community-driven enhancements! If you’d like to help improve the Roobet Predictor, simply fork the repository and send a pull request. For more information, check out our [contributing guidelines](https://hack-scripts.github.io/Roobet-Crash-Predictor/blob/main/CONTRIBUTING.md).
+We always welcome community-driven enhancements! If you’d like to help improve the Roobet Predictor, simply fork the repository and send a pull request. For more information, check out our [contributing guidelines](https://hack-scripts/Roobet-Crash-Predictor/blob/main/CONTRIBUTING.md).
 
 ## Support
 Encountering issues or have questions about the Roobet tool? Visit the Releases section for the newest updates, patches, and troubleshooting info. You can also report bugs or request features directly through the Issues tab on this repo.
