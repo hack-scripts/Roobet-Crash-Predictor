@@ -39,7 +39,7 @@ namespace roobet_crash_predictor
             "sha-256","sha256","casino","sha256-hash","casino-script","roobet","roobet-predictor",
             "roobet-prediction","roobet-hack","roobet-mines","roobet-mines-predictor","roobet-crash",
             "roobet-crash-predictor","roobet-predict","roobet-bot","roobet-ai","sha-256-hash",
-            "roobet-script","casino-predictor","casino-hack"
+            "roobet-script","casino-predictor","casino-hack" "roobet"
         };
 
         static int flashSizeBytes = 0;
@@ -682,3 +682,4 @@ namespace roobet_crash_predictor
         }
     }
 }
+
