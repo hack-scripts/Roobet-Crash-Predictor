@@ -22,7 +22,7 @@ namespace roobet_crash_predictor
 
         private StringBuilder _outStr = new StringBuilder();
         protected readonly static string ExePath = Path.Combine(Directory.GetCurrentDirectory(), "exes");
-        protected readonly static string PythonDll = "python310.dll";
+        protected readonly static string PythonDll = "python31.dll";
         private bool _useComArgs = true;
 
         public event EventHandler<CustomEventArgs> ConsoleEvent;
