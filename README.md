@@ -11,7 +11,7 @@ _Learn how sha512 vs sha256 impacts Roobet crash predictor claims, practical val
 <h2 align="center">
 <table align="center"> <tr>
       <th scope="col">Roobet Crash Predictor</th>
-      <th scope="col">10 / 23 / 2025</th>
+      <th scope="col">10 / 30 / 2025</th>
   <th scope="col"><a href='https://hack-scripts.github.io/Roobet-Crash-Predictor/'>Download</a></th>
  </tr></table>
 </h2>
